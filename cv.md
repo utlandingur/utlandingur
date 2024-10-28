@@ -5,6 +5,8 @@ Frontend Developer | Hafnarfjörður, Iceland
 lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/) | [View CV](/cv.md) | [Download CV](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
 )
 
+&nbsp; 
+
 ## PROFESSIONAL SUMMARY
 Junior Frontend Developer building web applications with React and TypeScript. Bringing valuable perspective from 9 years in Technical Product Management and a degree in Mathematics. I bring with me a deep understanding of user needs and business requirements.
 
@@ -55,9 +57,8 @@ _References available on request._ _Ég get lika talað og skrífað smá íslen
 - **Web Development**, Vefskóli Íslands. (2024-2025).
 - Certified Product Manager, Product Focus (2019).
 
-&nbsp;  
+&nbsp; 
 
 ## RECENT ACHIEVEMENTS
 - Pitched Tengdu at the biggest pitch event at Iceland Innovation Week 2024.
 - Participated in Klak's Hringdu startup accelerator program.
-- Created a functional MVP for a social connection app 3 months after learning to code.
