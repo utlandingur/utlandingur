@@ -15,8 +15,8 @@ Now, I'm excited to get started as a Junior Developer!
 - **Backend Frameworks & Libraries**: Mongoose, Node.js, Firebase
 - **Testing Frameworks**: Jest
 - **Tools**: Git, Figma, Jira
-- **Soft Skills**: Product Management
-- **Methodologies**: TDD, Agile, Scrum
+- **Soft Skills**: Product Management, public speaking, managing cross-functional teams
+- **Methodologies**: TDD, Agile, Scrum, Design thinking, User-centred design
 
 ## 📚 Education
 - **1st Class BSc Mathematics** from the University of Leeds (2015)
