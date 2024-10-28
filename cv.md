@@ -15,7 +15,7 @@ _References available on request._
 - **Backend Technologies**: Node.js, Firebase, Mongoose
 - **Testing Frameworks**: Jest
 - **Tools & Platforms**: Git, Figma, Jira
-- **Development Methodologies**: TDD, Agile, Scrum, Design Thinking
+- **Development Methodologies**: TDD, Agile, Scrum, Design Thinking 
 
 ## DEVELOPMENT EXPERIENCE
 
