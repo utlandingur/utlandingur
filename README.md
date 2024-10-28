@@ -40,20 +40,20 @@ You can view my CV [here](/cv.md) or download it [here](https://raw.githubuserco
 
 ## 🤔 FAQs
 
-### What motivated you to transition from a Technical Product Manager to a Front-End Developer?
+### What motivated me to transition from a Technical Product Manager to a Front-End Developer?
 After spending 9 years in tech as a Technical Product Manager, I realized that I wanted to be directly involved in building products. This passion led me to teach myself development to create my startup, Tengdu.
 
-### How do you approach learning new technologies?
+### How do I approach learning new technologies?
 I’m continuously learning, but I work best when given a problem to overcome. I find effective solutions rather than relying solely on tutorials or learning for learning’s sake.
 
-### Do you test your code?
+### Do I test my code?
 Yes! As you can see from my pinned repos, I ensure my code is stable in production and that issues are flagged early. My best tests can be found in the io.vefskoliv2 repo.
 
 ### Have I worked with other developers before?
 Yes, I worked on Tengdu with my co-founder Sessihers where we imployed version control, pull requests and branch management.
 
-### Do you need handholding?
+### Do I need handholding?
 I have never had my hand held during my journey as a developer or in my previous career as a Technical Product Manager. I identify what needs to be done and figure out how to do it. That said, I always seek constructive feedback and advice to improve my skills and the code I write.
 
-### Do you enjoy programming?
+### Do I enjoy programming?
 Absolutely! I love it.
