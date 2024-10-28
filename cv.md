@@ -8,9 +8,9 @@ lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/) | [Vi
 ## PROFESSIONAL SUMMARY
 Junior Frontend Developer building web applications with React and TypeScript. Bringing valuable perspective from 9 years in Technical Product Management and a degree in Mathematics. I bring with me a deep understanding of user needs and business requirements.
 
-_References available on request._
+_References available on request._ _Ég get lika talað og skrífað smá íslensku_.
 
-&nbsp;  
+&nbsp; 
 
 ## TECHNICAL SKILLS
 - **Frontend Technologies**: HTML, CSS, TypeScript, React, React Native, Next.js, Expo, Tamagui, Styled Components, Tailwind
@@ -29,6 +29,8 @@ _References available on request._
 - Transforming Figma designs into responsive interfaces, significantly improving mobile functionality.
 - Optimising database queries for maintainable and efficient code.
 - Source code and overview available at [this link](https://www.github.com/ellertsmari/io.vefskoliv2).
+
+&nbsp;  
 
 ### Frontend Developer & Co-founder @ Tengdu (Sep 2023 to Aug 2024)
 - Co-developed a social connection app for Android and iOS using **React Native**, **Expo**, and **Tamagui**, prioritizing user experience.
@@ -59,8 +61,3 @@ _References available on request._
 - Pitched Tengdu at the biggest pitch event at Iceland Innovation Week 2024.
 - Participated in Klak's Hringdu startup accelerator program.
 - Created a functional MVP for a social connection app 3 months after learning to code.
-
-&nbsp;  
-## LANGUAGES
-- English (Native)
-- Icelandic (Conversational)
