@@ -11,7 +11,7 @@ Junior Frontend Developer building web applications with React and TypeScript. B
 - **Backend Technologies**: Node.js, Firebase, Mongoose
 - **Testing Frameworks**: Jest
 - **Tools & Platforms**: Git, Figma, Jira
-- **Development Methodologies**: TDD, Agile, Scrum, Design Thinking, User-Centered Design
+- **Development Methodologies**: TDD, Agile, Scrum, Design Thinking
 
 ## DEVELOPMENT EXPERIENCE
 
@@ -19,8 +19,8 @@ Junior Frontend Developer building web applications with React and TypeScript. B
 - Leading the redesign of the learning management system (LMS) to enhance user accessibility and modern design.
 - Building a scalable architecture with **React**, **TypeScript**, and **Next.js**, ensuring efficient database interactions via **Mongoose**.
 - Transforming Figma designs into responsive interfaces, significantly improving mobile functionality.
-- Optimizing database queries for maintainable and efficient code.
-- [Link to repo](https://www.github.com/ellertsmari/io.vefskoliv2)
+- Optimising database queries for maintainable and efficient code.
+- [Link to repo](https://www.github.com/ellertsmari/io.vefskoliv2).
 
 ### Frontend Developer & Co-founder @ Tengdu (Sep 2023 to Aug 2024)
 - Co-developed a social connection app for Android and iOS using **React Native**, **Expo**, and **Tamagui**, prioritizing user experience.
@@ -39,7 +39,7 @@ Junior Frontend Developer building web applications with React and TypeScript. B
 ## EDUCATION
 
 - **BSc Mathematics**, University of Leeds: First Class Honours. (2015).
-- **Web Development**, Vefskóli Íslands: Focusing on contemporary web development practices and emerging technologies. (2024-2025).
+- **Web Development**, Vefskóli Íslands. (2024-2025).
 - Certified Product Manager, Product Focus (2019).
 
 
