@@ -1,9 +1,51 @@
-# I'm Luke - a front-end developer in Iceland
-After spending 9 years working in Tech as a Technical Product Manager (vörustjóri) I decided to teach myself development so I could build the app for my startup, Tengdu.
+# 👋 I'm Luke - a Front-End Developer in Iceland
+After spending 9 years in tech as a Technical Product Manager (vörustjóri) in the UK and Iceland, I decided to teach myself development so I could build an app for my startup, Tengdu.
 
-- I started teaching myself frontend development in December 2023 with the Codecademy Front End Web Development course
-- I built a social connection app with [sessihers](https://github.com/sessihers) from Feb to July 2024. I wrote the majority of the frontend code whilst he focussed on the backend. You can see the forked source code in [tengdu-public](https://github.com/utlandingur/tengdu-public)
-- I started studying web development at Vefskóli Íslands August 2024.
-- I am rebuilding Vefskóli's learning management system according to their redesigns in [io.vefskoliv2](https://github.com/ellertsmari/io.vefskoliv2)
-- I also have a 1st class BSc in Mathematics from the University of Leeds.
-- I can walk on my hands, jump 154cm onto a box and have bench pressed 145kg
+Now, I'm excited to get started as a Junior Developer!
+
+## 👨‍💻 My Journey
+- **December 2023**: Began teaching myself front-end development through Codecademy’s Front-End Web Development course.
+- **February - July 2024**: Developed a social connection app with [sessihers](https://www.linkedin.com/in/sesar-hersisson-9234b114a/), focusing on the frontend while he handled the backend.
+  - Despite market challenges that led us to close the startup, you can see the source code in [tengdu-public](https://github.com/utlandingur/tengdu-public). _Note: It's forked and combined from 3 private repos and contains no history._
+- **August 2024 - Present**: Studying web development at Vefskóli Íslands, where I'm also rebuilding their learning management system based on a new redesign. Check out the progress in [io.vefskoliv2](https://github.com/ellertsmari/io.vefskoliv2).
+
+## 🛠️ Skills and Experience
+- **Languages**: HTML, CSS, TypeScript
+- **Frontend Frameworks & Libraries**: React, React Native, Next.js, Expo, Tamagui
+- **Backend Frameworks & Libraries**: Mongoose, Node.js, Firebase
+- **Testing Frameworks**: Jest
+- **Tools**: Git, Figma, Jira
+- **Soft Skills**: Product Management
+- **Methodologies**: TDD, Agile, Scrum
+
+## 📚 Education
+- **1st Class BSc Mathematics** from the University of Leeds (2015)
+- **Certified Product Manager** from Product Focus (2019)
+- **Web Development** from Vefskóli Íslands (2024 - 2025)
+
+## 🚀 Achievements & Challenges
+- Led the UX team responsible for the rapid roll-out of Covid Testing in schools across the UK in January 2021.
+- Pitched Tengdu at the Silicon Vikings event for Iceland Innovation Week 2024.
+- Participated in the Hringdu startup accelerator hosted by Klak in 2024.
+- Set up file-based code routing for web and native code in Tengdu.
+  - _Eventually scrapped as we descoped the web version._
+
+## 💪 Interesting Facts
+- I can walk on my hands (but don't expect to see me working upside down!).
+
+## 🤔 FAQs
+
+### What motivated you to transition from a Technical Product Manager to a Front-End Developer?
+After spending 9 years in tech as a Technical Product Manager, I realized that I wanted to be directly involved in building products. This passion led me to teach myself development to create my startup, Tengdu.
+
+### How do you approach learning new technologies?
+I’m continuously learning, but I work best when given a problem to overcome. I find effective solutions rather than relying solely on tutorials or learning for learning’s sake.
+
+### Do you test your code?
+Yes! As you can see from my pinned repos, I ensure my code is stable in production and that issues are flagged early. My best tests can be found in the io.vefskoliv2 repo.
+
+### Do you need handholding?
+I have never had my hand held during my journey as a developer or in my previous career as a Technical Product Manager. I identify what needs to be done and figure out how to do it. That said, I always seek constructive feedback and advice to improve my skills and the code I write.
+
+### Do you enjoy programming?
+Absolutely! I love it.
