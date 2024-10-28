@@ -5,7 +5,7 @@ Frontend Developer | Hafnarfjörður, Iceland
 lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/) | [View CV](/cv.md) | [Download CV](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
 )
 
-![Profile picture](https://github.com/utlandingur.png){ width=100px }
+![Profile picture](https://github.com/utlandingur.png){ width=100px } 
 
 ## PROFESSIONAL SUMMARY
 Junior Frontend Developer building web applications with React and TypeScript. Bringing valuable perspective from 9 years in Technical Product Management and a degree in Mathematics. I bring with me a deep understanding of user needs and business requirements.
