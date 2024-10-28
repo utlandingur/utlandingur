@@ -23,7 +23,7 @@ jobs:
           # Duplicate cv.md to a new file specifically for Pandoc
           cp cv.md cv_pandoc.md
           # Replace <img> tag with extracted link in Markdown image format
-          sed -i 's|<img src="\([^"]*\)"[^>]*>|![Profile picture](\1){ width=100 }|' cv_pandoc.md
+          sed -i 's|<img src="\([^"]*\)"[^>]*>|![](\1){ width=100 }|' cv_pandoc.md
 
       - name: Print Markdown File
         run: |
