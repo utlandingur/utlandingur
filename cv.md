@@ -1,4 +1,5 @@
 <img src="https://github.com/utlandingur.png" alt="Alt text" title="a title" width="100" />
+![Profile picture](https://github.com/utlandingur.png){width=100}
 
 # Luke Hening
 Frontend Developer | Hafnarfjörður, Iceland  
