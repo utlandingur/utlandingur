@@ -16,6 +16,7 @@ Junior Frontend Developer building web applications with React and TypeScript. B
 
 ### Frontend Developer - Vefskóli Íslands
 *August 2024 - Present*
+
 - Rebuilding the school's learning management system (LMS) with a focus on modern design principles and user accessibility.
 - Utilizing **React**, **TypeScript**, and **Next.js** to implement a robust and scalable architecture while ensuring seamless database interactions with **Mongoose**.
 - Translating desktop design specifications from **Figma** into responsive user interfaces, significantly enhancing mobile functionality for a wider student audience.
@@ -24,6 +25,7 @@ Junior Frontend Developer building web applications with React and TypeScript. B
 
 ### Frontend Developer & Co-founder - Tengdu
 *February 2024 - July 2024*
+
 - Co-developed a social connection app for both Android and iOS platforms using **React Native**, **Expo**, and **Tamagui**, ensuring a high-quality user experience.
 - Chose **TypeScript** for its strict typing system, enhancing code stability and maintainability, which is essential for future team scaling.
 - Successfully navigated project configuration challenges for cross-platform compatibility and established a streamlined authentication process using Google and Apple authentication.
