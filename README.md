@@ -3,6 +3,8 @@ After spending 9 years in tech as a Technical Product Manager (vörustjóri) in 
 
 Now, I'm excited to get started as a Junior Developer!
 
+You can view my CV [here](/cv.md) or download it 
+
 ## 👨‍💻 My Journey
 - **December 2023**: Began teaching myself front-end development through Codecademy’s Front-End Web Development course.
 - **February - July 2024**: Developed a social connection app with [sessihers](https://www.linkedin.com/in/sesar-hersisson-9234b114a/), focusing on the frontend while he handled the backend.
