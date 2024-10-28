@@ -18,6 +18,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Prepare Markdown for Pandoc
+        run: |
+          # Duplicate cv.md to a new file specifically for Pandoc
+          cp cv.md cv_pandoc.md
+          # Replace <img> tag with extracted link in Markdown image format
+          sed -i 's|<img src="\([^"]*\)"[^>]*>|![Profile picture](\1){width=100}|' cv_pandoc.md
+
       - name: Convert Markdown to DOCX using Pandoc Docker
         uses: docker://pandoc/core:2.9  # Use a specific version of Pandoc
         with:
