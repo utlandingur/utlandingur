@@ -3,7 +3,8 @@ After spending 9 years in tech as a Technical Product Manager (vörustjóri) in 
 
 Now, I'm excited to get started as a Junior Developer!
 
-You can view my CV [here](/cv.md) or download it 
+You can view my CV [here](/cv.md) or download it [here](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
+)
 
 ## 👨‍💻 My Journey
 - **December 2023**: Began teaching myself front-end development through Codecademy’s Front-End Web Development course.
