@@ -11,28 +11,27 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc
+        run: sudo apt-get install pandoc
 
       - name: Convert Markdown to DOCX
-        uses: docker://pandoc/core:2.9
-        with:
-          args: "cv.md -o cv.docx"
+        run: pandoc cv.md -o cv.docx
 
-      - name: Check Git Status
-        run: git status
-
-      - name: Commit and Push DOCX
+      - name: Configure Git
         run: |
           git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
-          git add cv.docx
-          git commit -m "Add generated cv.docx" || echo "No changes to commit"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload DOCX as Artifact
-        uses: actions/upload-artifact@v4
+      - name: Commit and push changes
+        run: |
+          git add cv.docx
+          git commit -m "Add generated cv.docx"
+          git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/utlandingur/utlandingur.git HEAD:main
+
+      - name: Upload DOCX
+        uses: actions/upload-artifact@v3
         with:
           name: output-docx
           path: cv.docx
