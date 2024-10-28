@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      -cv.md
 
 permissions:
   contents: write  # Allow the workflow to push changes to the repository
