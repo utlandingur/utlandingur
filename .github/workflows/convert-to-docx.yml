@@ -6,21 +6,20 @@ on:
       - main
 
 permissions:
-  contents: write
-  
+  contents: write  # Allow the workflow to push changes to the repository
+
 jobs:
   convert:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
-        run: git clone https://github.com/utlandingur/utlandingur.git .
-      
-      - name: Install Pandoc
-        run: sudo apt-get install pandoc
+        uses: actions/checkout@v3
 
-      - name: Convert Markdown to DOCX
-        run: pandoc cv.md -o cv.docx
+      - name: Convert Markdown to DOCX using Pandoc Docker
+        uses: docker://pandoc/core:2.9  # Use a specific version of Pandoc
+        with:
+          args: cv.md -o cv.docx  # Command to convert markdown to docx
 
       - name: Configure Git
         run: |
@@ -34,7 +33,7 @@ jobs:
           git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/utlandingur/utlandingur.git HEAD:main
 
       - name: Upload DOCX
-        run: |
-          mkdir -p output
-          mv cv.docx output/
-          echo "Output file available at output/cv.docx"
+        uses: actions/upload-artifact@v4
+        with:
+          name: cv-docx
+          path: cv.docx
