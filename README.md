@@ -44,6 +44,9 @@ I’m continuously learning, but I work best when given a problem to overcome. I
 ### Do you test your code?
 Yes! As you can see from my pinned repos, I ensure my code is stable in production and that issues are flagged early. My best tests can be found in the io.vefskoliv2 repo.
 
+### Have I worked with other developers before?
+Yes, I worked on Tengdu with my co-founder Sessihers where we imployed version control, pull requests and branch management.
+
 ### Do you need handholding?
 I have never had my hand held during my journey as a developer or in my previous career as a Technical Product Manager. I identify what needs to be done and figure out how to do it. That said, I always seek constructive feedback and advice to improve my skills and the code I write.
 
