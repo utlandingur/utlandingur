@@ -11,8 +11,8 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-
+        run: git clone https://github.com/utlandingur/utlandingur.git .
+      
       - name: Install Pandoc
         run: sudo apt-get install pandoc
 
@@ -21,17 +21,17 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --local user.name "GitHub Action"
+          git config --local user.name "GitHub Actions"
           git config --local user.email "action@github.com"
 
       - name: Commit and push changes
         run: |
           git add cv.docx
-          git commit -m "Add generated cv.docx"
+          git commit -m "Add generated cv.docx" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.PERSONAL_TOKEN }}@github.com/utlandingur/utlandingur.git HEAD:main
 
       - name: Upload DOCX
-        uses: actions/upload-artifact@v3
-        with:
-          name: output-docx
-          path: cv.docx
+        run: |
+          mkdir -p output
+          mv cv.docx output/
+          echo "Output file available at output/cv.docx"
