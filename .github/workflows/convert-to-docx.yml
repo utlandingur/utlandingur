@@ -14,13 +14,13 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install Pandoc
-        run: sudo apt-get install pandoc
+        run: sudo apt-get install -y pandoc
 
       - name: Convert Markdown to DOCX
         run: pandoc cv.md -o cv.docx
 
       - name: Upload DOCX
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3  # Updated to v3
         with:
           name: output-docx
           path: cv.docx
