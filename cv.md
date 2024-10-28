@@ -10,6 +10,7 @@ Junior Frontend Developer building web applications with React and TypeScript. B
 
 _References available on request._
 
+&nbsp;  
 ## TECHNICAL SKILLS
 - **Frontend Technologies**: HTML, CSS, TypeScript, React, React Native, Next.js, Expo, Tamagui, Styled Components, Tailwind
 - **Backend Technologies**: Node.js, Firebase, Mongoose
@@ -17,6 +18,7 @@ _References available on request._
 - **Tools & Platforms**: Git, Figma, Jira
 - **Development Methodologies**: TDD, Agile, Scrum, Design Thinking
 
+&nbsp;  
 ## DEVELOPMENT EXPERIENCE 
 
 ### Frontend Developer @ Vefskóli Íslands (Aug 2024 to present)
@@ -33,24 +35,27 @@ _References available on request._
 - Conducted user testing to refine design and functionality based on feedback.
 - Source code and overview available at [this link](https://github.com/utlandingur/tengdu-public).
 
+&nbsp;  
 ## PREVIOUS EXPERIENCE
 
 ### Technical Product Manager (2015 to 2023)
 - Led the UX team responsible for the rapid roll-out of Covid Testing in UK schools.
 - Collaborated closely with development teams to deliver innovative technical solutions that met user needs.
 
+&nbsp;  
 ## EDUCATION
 
 - **BSc Mathematics**, University of Leeds: First Class Honours. (2015).
 - **Web Development**, Vefskóli Íslands. (2024-2025).
 - Certified Product Manager, Product Focus (2019).
 
-
+&nbsp;  
 ## RECENT ACHIEVEMENTS
 - Pitched Tengdu at the biggest pitch event at Iceland Innovation Week 2024.
 - Participated in Klak's Hringdu startup accelerator program.
 - Created a functional MVP for a social connection app 3 months after learning to code.
 
+&nbsp;  
 ## LANGUAGES
 - English (Native)
 - Icelandic (Conversational)
