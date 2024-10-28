@@ -52,7 +52,7 @@ Junior Frontend Developer building web applications with React and TypeScript. B
 - First Class Honours with a focus on theoretical mathematics and finance.
 
 ### Professional Certification
-- Certified Product Manager - Product Focus (2019) 
+- Certified Product Manager - Product Focus (2019)
 
 ## RECENT ACHIEVEMENTS
 - Pitched innovative ideas at the Silicon Vikings event during Iceland Innovation Week 2024, showcasing strong communication skills.
