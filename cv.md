@@ -8,7 +8,7 @@ lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/) | [Vi
 &nbsp; 
 
 ## PROFESSIONAL SUMMARY
-Junior Frontend Developer building web applications with React and TypeScript. Bringing valuable perspective from 9 years in Technical Product Management and a degree in Mathematics. I bring with me a deep understanding of user needs and business requirements.
+Junior Frontend Developer building web and mobile applications. I bring a deep understanding of user needs and business requirements from 9 years in Technical Product Management and a degree in Mathematics.
 
 _References available on request._ _Ég get lika talað og skrífað smá íslensku_.
 
