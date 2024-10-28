@@ -1,0 +1,26 @@
+name: Convert Markdown to DOCX
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Pandoc
+        run: sudo apt-get install pandoc
+
+      - name: Convert Markdown to DOCX
+        run: pandoc cv.md -o cv.docx
+
+      - name: Upload DOCX
+        uses: actions/upload-artifact@v2
+        with:
+          name: output-docx
+          path: cv.docx
