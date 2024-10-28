@@ -8,7 +8,7 @@ lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/) | [Vi
 ## PROFESSIONAL SUMMARY
 Junior Frontend Developer building web applications with React and TypeScript. Bringing valuable perspective from 9 years in Technical Product Management and a degree in Mathematics. I bring with me a deep understanding of user needs and business requirements.
 
-_References available on request_
+_References available on request._
 
 ## TECHNICAL SKILLS
 - **Frontend Technologies**: HTML, CSS, TypeScript, React, React Native, Next.js, Expo, Tamagui, Styled Components, Tailwind
