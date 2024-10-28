@@ -1,6 +1,7 @@
 # Luke Hening
 Frontend Developer | Hafnarfjörður, Iceland  
-lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/)
+lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/) | [View CV](/cv.md) | [Download CV](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
+)
 
 ## PROFESSIONAL SUMMARY
 Junior Frontend Developer building web applications with React and TypeScript. Bringing valuable perspective from 9 years in Technical Product Management and a degree in Mathematics. I bring with me a deep understanding of user needs and business requirements.
@@ -14,50 +15,38 @@ Junior Frontend Developer building web applications with React and TypeScript. B
 
 ## DEVELOPMENT EXPERIENCE
 
-### Frontend Developer - Vefskóli Íslands
-*August 2024 - Present*
-
-- Rebuilding the school's learning management system (LMS) with a focus on modern design principles and user accessibility.
-- Utilizing **React**, **TypeScript**, and **Next.js** to implement a robust and scalable architecture while ensuring seamless database interactions with **Mongoose**.
-- Translating desktop design specifications from **Figma** into responsive user interfaces, significantly enhancing mobile functionality for a wider student audience.
-- Streamlining database queries and enriching fetched data, resulting in more maintainable code.
+### Frontend Developer @ Vefskóli Íslands (Aug 2024 to present)
+- Leading the redesign of the learning management system (LMS) to enhance user accessibility and modern design.
+- Building a scalable architecture with **React**, **TypeScript**, and **Next.js**, ensuring efficient database interactions via **Mongoose**.
+- Transforming Figma designs into responsive interfaces, significantly improving mobile functionality.
+- Optimizing database queries for maintainable and efficient code.
 - [Link to repo](https://www.github.com/ellertsmari/io.vefskoliv2)
 
-### Frontend Developer & Co-founder - Tengdu
-*February 2024 - July 2024*
-
-- Co-developed a social connection app for both Android and iOS platforms using **React Native**, **Expo**, and **Tamagui**, ensuring a high-quality user experience.
-- Chose **TypeScript** for its strict typing system, enhancing code stability and maintainability, which is essential for future team scaling.
-- Successfully navigated project configuration challenges for cross-platform compatibility and established a streamlined authentication process using Google and Apple authentication.
-- Designed and implemented key features such as user authentication, profiles, group messaging, and push notifications, creating a comprehensive user experience.
-- Conducted user testing to gather feedback, leading to informed design and product decisions that refined the application.
+### Frontend Developer & Co-founder @ Tengdu (Sep 2023 to Aug 2024)
+- Co-developed a social connection app for Android and iOS using **React Native**, **Expo**, and **Tamagui**, prioritizing user experience.
+- Implemented a streamlined authentication process with Google and Apple, enhancing user onboarding.
+- Designed and integrated features such as user profiles, group messaging, and push notifications for a cohesive user experience.
+- Conducted user testing to refine design and functionality based on feedback.
 - Source code available at [this link](https://github.com/utlandingur/tengdu-public).
+
 
 ## PREVIOUS EXPERIENCE
 
-### Technical Product Manager
-*2015 - 2024*
-- Led the UX team responsible for the rapid roll-out of Covid Testing in UK schools, demonstrating strong project management skills.
-- Oversaw cross-functional teams on multiple projects, driving strategic direction and successful execution.
+### Technical Product Manager (2015 to 2023)
+- Led the UX team responsible for the rapid roll-out of Covid Testing in UK schools.
 - Collaborated closely with development teams to deliver innovative technical solutions that met user needs.
 
 ## EDUCATION
 
-### Web Development - Vefskóli Íslands
-*2024 - 2025 (In Progress)*
-- Concentrating on contemporary web development practices and emerging technologies.
+- **BSc Mathematics**, University of Leeds: First Class Honours. (2015).
+- **Web Development**, Vefskóli Íslands: Focusing on contemporary web development practices and emerging technologies. (2024-2025).
+- Certified Product Manager, Product Focus (2019).
 
-### BSc Mathematics - University of Leeds
-*2012 - 2015*
-- First Class Honours with a focus on theoretical mathematics and finance.
-
-### Professional Certification
-- Certified Product Manager - Product Focus (2019)
 
 ## RECENT ACHIEVEMENTS
-- Pitched innovative ideas at the Silicon Vikings event during Iceland Innovation Week 2024, showcasing strong communication skills.
-- Participated in Klak's Hringdu startup accelerator program, gaining valuable insights into startup dynamics.
-- Developed and successfully launched the MVP for a social connection application, demonstrating effective project management and execution.
+- Pitched Tengdu at the biggest pitch event at Iceland Innovation Week 2024.
+- Participated in Klak's Hringdu startup accelerator program.
+- Created a functional MVP for a social connection app 3 months after learning to code.
 
 ## LANGUAGES
 - English (Native)
