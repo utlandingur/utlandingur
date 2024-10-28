@@ -17,7 +17,7 @@ _References available on request._
 - **Tools & Platforms**: Git, Figma, Jira
 - **Development Methodologies**: TDD, Agile, Scrum, Design Thinking
 
-## DEVELOPMENT EXPERIENCE
+## DEVELOPMENT EXPERIENCE 
 
 ### Frontend Developer @ Vefskóli Íslands (Aug 2024 to present)
 - Leading the redesign of the learning management system (LMS) to enhance user accessibility and modern design.
