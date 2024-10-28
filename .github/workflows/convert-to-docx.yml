@@ -26,7 +26,7 @@ jobs:
           sed -i 's|<img src="\([^"]*\)"[^>]*>|![Profile picture](\1){width=100}|' cv_pandoc.md
 
       - name: Convert Markdown to DOCX using Pandoc Docker
-        uses: docker://pandoc/core:2.9  # Use a specific version of Pandoc
+        uses: docker://pandoc/core:latest
         with:
           args: cv.md -o cv.docx  # Command to convert markdown to docx
 
