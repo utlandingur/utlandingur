@@ -25,10 +25,15 @@ jobs:
           # Replace <img> tag with extracted link in Markdown image format
           sed -i 's|<img src="\([^"]*\)"[^>]*>|![Profile picture](\1){ width=100 }|' cv_pandoc.md
 
+      - name: Print Markdown File
+        run: |
+          echo "Contents of cv_pandoc.md:"
+          cat cv_pandoc.md
+          
       - name: Convert Markdown to DOCX using Pandoc Docker
         uses: docker://pandoc/core:latest
         with:
-          args: cv.md -o cv.docx  # Command to convert markdown to docx
+          args: cv_pandoc.md -o cv.docx  # Command to convert markdown to docx
 
       - name: Configure Git
         run: |
