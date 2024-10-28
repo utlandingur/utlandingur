@@ -1,3 +1,5 @@
+<img src="https://github.com/utlandingur.png" alt="Alt text" title="a title" width="100" />
+
 # Luke Hening
 Frontend Developer | Hafnarfjörður, Iceland  
 lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/) | [View CV](/cv.md) | [Download CV](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
@@ -5,6 +7,8 @@ lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/) | [Vi
 
 ## PROFESSIONAL SUMMARY
 Junior Frontend Developer building web applications with React and TypeScript. Bringing valuable perspective from 9 years in Technical Product Management and a degree in Mathematics. I bring with me a deep understanding of user needs and business requirements.
+
+_References available on request_
 
 ## TECHNICAL SKILLS
 - **Frontend Technologies**: HTML, CSS, TypeScript, React, React Native, Next.js, Expo, Tamagui, Styled Components, Tailwind
@@ -20,15 +24,14 @@ Junior Frontend Developer building web applications with React and TypeScript. B
 - Building a scalable architecture with **React**, **TypeScript**, and **Next.js**, ensuring efficient database interactions via **Mongoose**.
 - Transforming Figma designs into responsive interfaces, significantly improving mobile functionality.
 - Optimising database queries for maintainable and efficient code.
-- [Link to repo](https://www.github.com/ellertsmari/io.vefskoliv2).
+- Source code and overview available at [this link](https://www.github.com/ellertsmari/io.vefskoliv2).
 
 ### Frontend Developer & Co-founder @ Tengdu (Sep 2023 to Aug 2024)
 - Co-developed a social connection app for Android and iOS using **React Native**, **Expo**, and **Tamagui**, prioritizing user experience.
 - Implemented a streamlined authentication process with Google and Apple, enhancing user onboarding.
 - Designed and integrated features such as user profiles, group messaging, and push notifications for a cohesive user experience.
 - Conducted user testing to refine design and functionality based on feedback.
-- Source code available at [this link](https://github.com/utlandingur/tengdu-public).
-
+- Source code and overview available at [this link](https://github.com/utlandingur/tengdu-public).
 
 ## PREVIOUS EXPERIENCE
 
