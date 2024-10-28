@@ -11,18 +11,15 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Convert Markdown to DOCX
         uses: docker://pandoc/core:2.9
         with:
           args: "cv.md -o cv.docx"
 
-      - name: Upload DOCX as Artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: output-docx
-          path: cv.docx
+      - name: Check Git Status
+        run: git status
 
       - name: Commit and Push DOCX
         run: |
@@ -33,3 +30,9 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload DOCX as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: output-docx
+          path: cv.docx
