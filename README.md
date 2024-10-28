@@ -7,6 +7,8 @@ You can view my CV [here](/cv.md) or download it [here](https://raw.githubuserco
 )
 
 ## 👨‍💻 My Journey
+- **2015 to 2023**: Worked for various organisations in the UK and Iceland as a Technical Product Manager, including the Ministry of Defence and the NHS
+  - Worked closely with developers, designers and stakeholders to build in-house and SaaS software and create design systems.
 - **December 2023**: Began teaching myself front-end development through Codecademy’s Front-End Web Development course.
 - **February - July 2024**: Developed a social connection app with [sessihers](https://www.linkedin.com/in/sesar-hersisson-9234b114a/), focusing on the frontend while he handled the backend.
   - Despite market challenges that led us to close the startup, you can see the source code in [tengdu-public](https://github.com/utlandingur/tengdu-public). _Note: It's forked and combined from 3 private repos and contains no history._
