@@ -35,6 +35,18 @@ jobs:
         with:
           args: cv_pandoc.md -o cv.docx  # Command to convert markdown to docx
 
+      - name: Check DOCX File Details
+        run: |
+          echo "DOCX file details:"
+          ls -lh cv.docx  # List file with human-readable sizes
+
+      - name: Convert DOCX to Plain Text for Inspection
+        run: |
+          # Convert DOCX back to plain text to view contents
+          pandoc cv.docx -t plain -o cv_plain.txt
+          echo "Contents of cv_plain.txt:"
+          cat cv_plain.txt  # Print the plain text contents
+
       - name: Configure Git
         run: |
           git config --local user.name "GitHub Actions"
