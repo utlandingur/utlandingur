@@ -13,7 +13,7 @@ You can view my CV [here](/cv.md) or download it [here](https://raw.githubuserco
 - **February - July 2024**: Developed a social connection app with [sessihers](https://www.linkedin.com/in/sesar-hersisson-9234b114a/), focusing on the frontend while he handled the backend.
   - Despite market challenges that led us to close the startup, you can see the source code in [tengdu-public](https://github.com/utlandingur/tengdu-public). _Note: It's forked and combined from 3 private repos and contains no history._
 - **August 2024 - Present**: Studying web development at Vefskóli Íslands, where I'm also rebuilding their learning management system based on a new redesign. Check out the progress in [io.vefskoliv2](https://github.com/ellertsmari/io.vefskoliv2).
-- **November 2024 - Present**: Building a few minimal ad-supported web-applications such as [podcasttomp3.com](www.podcasttomp3.com).
+- **November 2024 - Present**: Building a few minimal ad-supported web-applications such as [podcasttomp3.com](https://podcasttomp3.com).
 
 ## 🛠️ Skills and Experience
 - **Languages**: HTML, CSS, TypeScript
