@@ -1,6 +1,4 @@
 # 👋 I'm Luke - a Front-End Developer in Iceland
-After spending 9 years in tech as a Technical Product Manager (vörustjóri) in the UK and Iceland, I decided to teach myself development so I could build an app for my startup, Tengdu.
-
 Looking for my first Frontend Developer role! Open to junior positions, internships, and projects where I can grow and contribute.
 
 You can view my CV [here](/cv.md) or download it [here](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
