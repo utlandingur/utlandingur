@@ -14,7 +14,7 @@ You can view my CV [here](/cv.md) or download it [here](https://raw.githubuserco
   - Despite market challenges that led us to close the startup, you can see the source code in [tengdu-public](https://github.com/utlandingur/tengdu-public). _Note: It's forked and combined from 3 private repos and contains no history._
 - **August 2024 - Present**: Studying web development at Vefskóli Íslands, where I'm also rebuilding their learning management system based on a new redesign. Check out the progress in [io.vefskoliv2](https://github.com/ellertsmari/io.vefskoliv2).
 - **November 2024 - Present**: Built a podcast mp3 downloader using Next.js, [podcasttomp3.com](https://podcasttomp3.com). Uses mongodb to persist state (downloads and favourites).
-- **January 2025 - Present**: Internship at Hugsmiðjan as a frontend developer. Solo project refactoring and updating 5 year old codebase for a client.
+- **January 2025 - Present**: Internship at Hugsmiðjan as a frontend developer. Currently refactoring and updating a 5 year old codebase for a client website.
 
 ## 🛠️ Skills and Experience
 - **Languages**: HTML, CSS, TypeScript. (As of Jan '25 I'm now learning Rust)
