@@ -1,5 +1,5 @@
 # 👋 I'm Luke - a Front-End Developer in Iceland
-Looking for my first Frontend Developer role! Open to junior positions, internships, and projects where I can grow and contribute.
+Looking for a Frontend Developer role.
 
 You can view my CV [here](/cv.md) or download it [here](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
 )
