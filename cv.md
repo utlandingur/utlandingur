@@ -1,64 +1,51 @@
 <img src="https://github.com/utlandingur.png" alt="Alt text" title="a title" width="100" />
 
 # Luke Hening
-Frontend Developer | Hafnarfjörður, Iceland  
-lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/) | [View CV](/cv.md) | [Download CV](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
+**Frontend Developer** | Hafnarfjörður, Iceland  
+lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/) | [Download CV](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
 )
 
-&nbsp; 
+---
 
-## PROFESSIONAL SUMMARY
+## ABOUT ME  
 Junior Frontend Developer building web and mobile applications. I bring a deep understanding of user needs and business requirements from 9 years in Technical Product Management and a degree in Mathematics.
 
-_References available on request._ _Ég get lika talað og skrifað smá íslensku_.
+---
 
-&nbsp; 
+## ACHIEVEMENTS  
 
-## TECHNICAL SKILLS
-- **Frontend Technologies**: HTML, CSS, TypeScript, React, React Native, Next.js, Expo, Tamagui, Styled Components, Tailwind
-- **Backend Technologies**: Node.js, Firebase, Mongoose
-- **Testing Frameworks**: Jest
-- **Tools & Platforms**: Git, Figma, Jira
-- **Development Methodologies**: TDD, Agile, Scrum, Design Thinking
+### **Skeljungur.is (Hugsmiðjan)**  
+- Refactoring a **legacy codebase** using **GraphQL**, **Next.js**, and **Prismic**.
 
-&nbsp;  
+### **Tengdu – Social Connection App**  
+- Co-built [**Tengdu**](https://github.com/utlandingur/tengdu-public), a social app for **Android** and **iOS** with **React Native** and **Expo**.  
+- Pitched at **Iceland Innovation Week 2024**.
 
-## DEVELOPMENT EXPERIENCE 
+### **PodcastToMP3**  
+- Created [**PodcastToMP3**](https://podcasttomp3.com), a tool to convert podcasts to MP3 files for offline use.  
+- **Nominated for Student Project of the Year** at the **Icelandic Web Awards**.  
+- Built with **Next.js** and **MongoDB**, showcasing my full-stack skills.
 
-### Frontend Developer @ Vefskóli Íslands (Aug 2024 to present)
-- Leading the redesign of the learning management system (LMS) to enhance user accessibility and modern design.
-- Building a scalable architecture with **React**, **TypeScript**, and **Next.js**, ensuring efficient database interactions via **Mongoose**.
-- Transforming Figma designs into responsive interfaces, significantly improving mobile functionality.
-- Optimising database queries for maintainable and efficient code.
-- Source code and overview available at [this link](https://www.github.com/ellertsmari/io.vefskoliv2).
+### **Vefskóli Íslands – Learning Management System**  
+- Solo developed **Vefskóli’s** new [Learning Management System](https://www.github.com/ellertsmari/io.vefskoliv2), improving **user accessibility** and making it **mobile-first**.  
+- Built using **React**, **Next.js**, and **Mongoose**—optimized for performance and scalability.
 
-&nbsp;  
+---
 
-### Frontend Developer & Co-founder @ Tengdu (Sep 2023 to Aug 2024)
-- Co-developed a social connection app for Android and iOS using **React Native**, **Expo**, and **Tamagui**, prioritizing user experience.
-- Implemented a streamlined authentication process with Google and Apple, enhancing user onboarding.
-- Designed and integrated features such as user profiles, group messaging, and push notifications for a cohesive user experience.
-- Conducted user testing to refine design and functionality based on feedback.
-- Source code and overview available at [this link](https://github.com/utlandingur/tengdu-public).
+## EDUCATION  
 
-&nbsp; 
+**BSc Mathematics** – University of Leeds, First Class Honours (2015)  
+**Web Development** – Vefskóli Íslands (2024-2025)
 
-## PREVIOUS EXPERIENCE
+---
 
-### Technical Product Manager (2015 to 2023)
-- Led the UX team responsible for the rapid roll-out of Covid Testing in UK schools.
-- Collaborated closely with development teams to deliver innovative technical solutions that met user needs.
+## SKILLS  
+- **Languages**: HTML, CSS, SCSS, TypeScript and a little Rust.
+- **Frontend**: React, React Native, Next.js, Expo, Tailwind, SCSS, Styled Components  
+- **Backend**: Mongoose, Node.js, Firebase, GraphQL  
+- **Tools**: Git, Figma, Jira  
+- **Methodologies**: Agile, Scrum, TDD
 
-&nbsp;  
+---
 
-## EDUCATION
-
-- **BSc Mathematics**, University of Leeds: First Class Honours. (2015).
-- **Web Development**, Vefskóli Íslands. (2024-2025).
-- Certified Product Manager, Product Focus (2019).
-
-&nbsp; 
-
-## RECENT ACHIEVEMENTS
-- Pitched Tengdu at the biggest pitch event at Iceland Innovation Week 2024.
-- Participated in Klak's Hringdu startup accelerator program.
+I get things done, fast. Let’s talk.
