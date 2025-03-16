@@ -5,14 +5,12 @@
 lukehening@gmail.com | [LinkedIn](https://www.linkedin.com/in/lukehening/) | [Download CV](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
 )
 
----
 
 ## ABOUT ME  
 Junior Frontend Developer building web and mobile applications. I bring a deep understanding of user needs and business requirements from 9 years in Technical Product Management and a degree in Mathematics.
 
 &nbsp; 
 
----
 
 ## ACHIEVEMENTS  
 
@@ -38,7 +36,7 @@ Junior Frontend Developer building web and mobile applications. I bring a deep u
 - Solo developed **Vefskóli’s** new [Learning Management System](https://www.github.com/ellertsmari/io.vefskoliv2), improving **user accessibility** and making it **mobile-first**.  
 - Built using **React**, **Next.js**, and **Mongoose**—optimized for performance and scalability.
 
----
+&nbsp; 
 
 ## EDUCATION  
 
@@ -47,7 +45,6 @@ Junior Frontend Developer building web and mobile applications. I bring a deep u
 
 &nbsp; 
 
----
 
 ## SKILLS  
 - **Languages**: HTML, CSS, SCSS, TypeScript and a little Rust.
@@ -58,6 +55,3 @@ Junior Frontend Developer building web and mobile applications. I bring a deep u
 
 &nbsp; 
 
----
-
-I get things done, fast. Let’s talk.
