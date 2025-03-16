@@ -15,7 +15,7 @@ Junior Frontend Developer building web and mobile applications. I bring a deep u
 ## ACHIEVEMENTS  
 
 ### **Skeljungur.is (Hugsmiðjan)**  
-- Refactoring a **legacy codebase** using **GraphQL**, **Next.js**, and **Prismic**.
+- Refactored a **legacy codebase** with **GraphQL**, **Next.js**, and **Prismic**, improving **performance** and **scalability**.
 
 ### **Tengdu – Social Connection App**  
 - Co-built [**Tengdu**](https://github.com/utlandingur/tengdu-public), a social app for **Android** and **iOS** with **React Native** and **Expo**.  
