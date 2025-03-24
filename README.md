@@ -1,5 +1,5 @@
 # 👋 I'm Luke - a Front-End Developer in Iceland
-Looking for a Frontend Developer role.
+Looking for a Frontend Developer role. Winner of the Student Project of the Year at Svef 2024 with [podcasttomp3.com](https://podcasttomp3.com).
 
 You can view my CV [here](/cv.md) or download it [here](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
 )
