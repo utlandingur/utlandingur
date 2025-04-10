@@ -1,8 +1,10 @@
-# 👋 I'm Luke - a Front-End Developer in Iceland
-Looking for a Frontend Developer role. Winner of the Student Project of the Year at Svef 2024 with [podcasttomp3.com](https://podcasttomp3.com).
+# 👋 I'm Luke - a React and NextJS Developer in Iceland
+Winner of the Student Project of the Year at Svef 2024 with [podcasttomp3.com](https://podcasttomp3.com).
 
 You can view my CV [here](/cv.md) or download it [here](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
 )
+
+Looking for a Frontend Developer role. 
 
 ## 👨‍💻 My Journey
 - **2015 to 2023**: Worked for various organisations in the UK and Iceland as a Technical Product Manager, including the Ministry of Defence and the NHS
