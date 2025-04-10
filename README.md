@@ -1,5 +1,5 @@
-# 👋 I'm Luke - a React and NextJS Developer in Iceland
-Winner of the Student Project of the Year at Svef 2024 with [podcasttomp3.com](https://podcasttomp3.com).
+# 👋 I'm Luke - a React and Next.js Developer in Iceland
+Winner of the Student Project of the Year at Svef Web Awards 2024 with [podcasttomp3.com](https://podcasttomp3.com).
 
 You can view my CV [here](/cv.md) or download it [here](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
 )
@@ -17,9 +17,9 @@ Looking for a Frontend Developer role.
 - **January 2025 - Present**: Internship at Hugsmiðjan as a Frontend Developer. Currently refactoring and modernizing a 5-year-old client website—migrating from Stylus, Next.js 8, and the Prismic API to Next.js 14, SCSS, and GraphQL.
 
 ## 🛠️ Skills and Experience
-- **Languages**: HTML, CSS, SCSS, TypeScript. (As of Jan '25 I'm now learning Rust)
-- **Frontend Frameworks & Libraries**: React, React Native, Next.js, Expo, Tamagui, ShadCn, TanStack Query
-- **Backend Frameworks & Libraries**: Mongoose, Node.js, Firebase, GraphQL
+- **Languages**: HTML, CSS, SCSS, TypeScript, and a little rust.
+- **Frontend Frameworks & Libraries**: React, Next.js, React Native, , Expo, Tamagui, ShadCn, TanStack Query
+- **Backend Frameworks & Libraries**: Mongoose, Node.js, Firebase, GraphQL, Express, Sequelize
 - **Testing Frameworks**: Jest
 - **CMS & Content Management**: Prismic
 - **Tools**: Git, Figma, Jira
@@ -32,6 +32,7 @@ Looking for a Frontend Developer role.
 - **Web Development** from Vefskóli Íslands (2024 - 2025)
 
 ## 🚀 Achievements & Challenges
+- Won Student Project of the Year at Svef Web Awards 2024 with [podcasttomp3.com](https://podcasttomp3.com)
 - Led the UX team responsible for the rapid roll-out of Covid Testing in schools across the UK in January 2021.
 - Pitched Tengdu at the Silicon Vikings event for Iceland Innovation Week 2024.
 - Participated in the Hringdu startup accelerator hosted by Klak in 2024.
@@ -53,7 +54,7 @@ I’m continuously learning, but I work best when given a problem to overcome. I
 Yes! As you can see from my pinned repos, I ensure my code is stable in production and that issues are flagged early. My best tests can be found in the io.vefskoliv2 repo.
 
 ### Have I worked with other developers before?
-Yes, I worked on Tengdu with my co-founder Sessihers where we employed version control, pull requests and branch management.
+Yes, many times. Such as on Tengdu and at my internship with Hugsmiðjan where we employed version control, pull requests and branch management. 
 
 ### Am I independent??
 I have never had my hand held during my journey as a developer or in my previous career as a Technical Product Manager. I identify what needs to be done and figure out how to do it. That said, I always seek constructive feedback and advice to improve my skills and the code I write.
