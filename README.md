@@ -6,6 +6,8 @@ You can view my CV [here](/cv.md) or download it [here](https://raw.githubuserco
 
 Looking for a Frontend Developer role. 
 
+Currently building an AI-powered language comprehension tool
+
 ## 👨‍💻 My Journey
 - **2015 to 2023**: Worked for various organisations in the UK and Iceland as a Technical Product Manager, including the Ministry of Defence and the NHS
   - Collaborated with developers, designers, and stakeholders to build in-house and SaaS software and create design systems.
