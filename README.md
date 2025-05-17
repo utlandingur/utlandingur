@@ -1,4 +1,4 @@
-# 👋 I'm Luke - a React and Next.js Developer in Iceland
+# 👋 I'm Luke - a Software Engineer in Iceland
 Winner of the Student Project of the Year at Svef Web Awards 2024 with [podcasttomp3.com](https://podcasttomp3.com).
 
 You can view my CV [here](/cv.md) or download it [here](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
