@@ -1,12 +1,7 @@
 # 👋 I'm Luke - a Software Engineer in Iceland
 Winner of the Student Project of the Year at Svef Web Awards 2024 with [podcasttomp3.com](https://podcasttomp3.com).
 
-You can view my CV [here](/cv.md) or download it [here](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
-)
-
-Looking for a Frontend Developer role. 
-
-Currently building an AI-powered language comprehension tool
+Currently leading the development of [safespace.zone](https://safespace.zone), a team checkin-in tool that's "out of this world!
 
 ## 👨‍💻 My Journey
 - **2015 to 2023**: Worked for various organisations in the UK and Iceland as a Technical Product Manager, including the Ministry of Defence and the NHS
@@ -16,13 +11,14 @@ Currently building an AI-powered language comprehension tool
   - Despite market challenges that led us to close the startup, you can see the source code in [tengdu-public](https://github.com/utlandingur/tengdu-public). _Note: It's forked and combined from 3 private repos and contains no history._
 - **August 2024 - Present**: Studying web development at Vefskóli Íslands, where I'm also rebuilding their learning management system based on a new redesign. Check out the progress in [io.vefskoliv2](https://github.com/ellertsmari/io.vefskoliv2).
 - **November 2024 - Present**: Built a podcast mp3 downloader using Next.js, [podcasttomp3.com](https://podcasttomp3.com). Uses mongodb to persist state (downloads and favourites).
-- **January 2025 - Present**: Internship at Hugsmiðjan as a Frontend Developer. Currently refactoring and modernizing a 5-year-old client website—migrating from Stylus, Next.js 8, and the Prismic API to Next.js 14, SCSS, and GraphQL.
+- **January 2025 - April 2025**: Internship at Hugsmiðjan as a Frontend Developer. Refactored and modernized a 5-year-old client website ([skeljungur.is](https://skeljungur.is)) —migrating from Stylus, Next.js 8, and the Prismic API to Next.js 14, SCSS, and GraphQL.
+- **April 2025 - Present**: Leading the development of [safespace.zone](https://safespace.zone), a team checkin-in tool that's "out of this world! Full-stack development using Firebase and Next.js, with tests written using Playwright and Jest. Working alongside a designer formerly from Spotify.
 
 ## 🛠️ Skills and Experience
 - **Languages**: HTML, CSS, SCSS, TypeScript, and a little rust.
-- **Frontend Frameworks & Libraries**: React, Next.js, React Native, , Expo, Tamagui, ShadCn, TanStack Query
+- **Frontend Frameworks & Libraries**: React, Next.js, React Native, Expo, Tamagui, ShadCn, TanStack Query
 - **Backend Frameworks & Libraries**: Mongoose, Node.js, Firebase, GraphQL, Express, Sequelize
-- **Testing Frameworks**: Jest
+- **Testing Frameworks**: Jest, Playwright.
 - **CMS & Content Management**: Prismic
 - **Tools**: Git, Figma, Jira
 - **Soft Skills**: Product Management, public speaking, managing cross-functional teams
@@ -52,14 +48,15 @@ After spending 9 years in tech as a Technical Product Manager, I realized that I
 ### How do I approach learning new technologies?
 I’m continuously learning, but I work best when given a problem to overcome. I find effective solutions rather than relying solely on tutorials or learning for learning’s sake.
 
-### Do I test my code?
-Yes! As you can see from my pinned repos, I ensure my code is stable in production and that issues are flagged early. My best tests can be found in the io.vefskoliv2 repo.
-
 ### Have I worked with other developers before?
-Yes, many times. Such as on Tengdu and at my internship with Hugsmiðjan where we employed version control, pull requests and branch management. 
+Yes, many times.
 
 ### Am I independent??
 I have never had my hand held during my journey as a developer or in my previous career as a Technical Product Manager. I identify what needs to be done and figure out how to do it. That said, I always seek constructive feedback and advice to improve my skills and the code I write.
 
 ### Do I enjoy programming?
 Absolutely! I love it.
+
+# Get my CV
+You can view my CV [here](/cv.md) or download it [here](https://raw.githubusercontent.com/utlandingur/utlandingur/main/cv.docx
+)
