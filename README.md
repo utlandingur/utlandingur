@@ -1,6 +1,6 @@
 # 👋 I'm Luke - a Software Engineer in Iceland
 Currently:
-- Building [Moolang](https:/moolang.app), a tool that turns any article into guided language practice in seconds!
+- Building [Moolang](https://moolang.app), a tool that turns any article into guided language practice in seconds!
 - Leading the backend development of an ecommerce site in Iceland.
 
 Winner of the Student Project of the Year at Svef Web Awards 2024 with [podcasttomp3.com](https://podcasttomp3.com).
