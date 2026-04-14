@@ -1,7 +1,9 @@
 # 👋 I'm Luke - a Software Engineer in Iceland
-Winner of the Student Project of the Year at Svef Web Awards 2024 with [podcasttomp3.com](https://podcasttomp3.com).
+Currently:
+- Building [Moolang](https:/moolang.app), a tool that turns any article into guided language practice in seconds!
+- Leading the backend development of an ecommerce site in Iceland.
 
-Currently leading the development of [safespace.zone](https://safespace.zone), a team checkin-in tool that's "out of this world!
+Winner of the Student Project of the Year at Svef Web Awards 2024 with [podcasttomp3.com](https://podcasttomp3.com).
 
 ## 👨‍💻 My Journey
 - **2015 to 2023**: Worked for various organisations in the UK and Iceland as a Technical Product Manager, including the Ministry of Defence and the NHS
